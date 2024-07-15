@@ -1,5 +1,5 @@
-U2 : STM32F411CEU6
-U3 : MPU-6050
+- U2 : STM32F411CEU6
+- U3 : MPU-6050
 
 ![image](https://github.com/user-attachments/assets/37160594-683a-400b-a344-385c33adda39)
 
